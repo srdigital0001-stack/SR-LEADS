@@ -1,0 +1,8 @@
+{
+  "name": "SR Digital - Premium Real Estate Lead Gen",
+  "description": "A high-conversion landing page for SR Digital, specializing in Google and Meta ads for realtors in Delhi NCR, featuring an AI-powered lead strategy consultant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
